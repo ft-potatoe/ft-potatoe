@@ -54,11 +54,11 @@ Outside of coding, you'll often find me working on side projects, taking part in
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=saadmaz&show_icons=true&theme=default" alt="Saad's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadmaz" alt="Saad's GitHub streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ft-potatoe&show_icons=true&theme=default" alt="Humayra's's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ft-potatoe" alt="Humayra's GitHub streak" height="165"/>
 </p>
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saadmaz&layout=compact" alt="Saad's most used languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ft-potatoe&layout=compact" alt="Humayra's most used languages" height="165"/>
 </p>
 
 ### 🌐 Get in touch
