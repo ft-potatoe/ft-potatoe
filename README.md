@@ -2,9 +2,9 @@
 
 A Computer Science undergraduate passionate about building software, exploring AI, and turning ideas into practical solutions.
 
-My interests sit at the intersection of **software development, AI, web technologies, cloud platforms, and emerging technologies.** I enjoy building real-world applications, experimenting with new tools, and understanding how technology can be used to solve meaningful problems.
+My interests sit at the intersection of **software development, AI, web technologies, cloud platforms, automating daily tasks and emerging technologies.** I enjoy building real-world applications, experimenting with new tools, and understanding how technology can be used to solve meaningful problems.
 
-Outside of coding, you'll often find me working on side projects, taking part in hackathons, exploring new technologies, contributing to tech communities, and looking for opportunities to turn ideas into something real.
+Outside of coding, you'll often find me working on side projects, taking part in hackathons, exploring new technologies and cafes, contributing to tech communities, and looking for opportunities to turn ideas into something real.
 
 > *Build with purpose. Learn by doing. Create what matters.* 🚀
 
